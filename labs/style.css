@@ -1,0 +1,8 @@
+body{background-color: rgb(48, 27, 2);}
+h1, h2, h3,h4{color: rgb(207, 113, 5);}
+h1{text-align: center;}
+nav{text-align: right;}
+.link a {color: brown;}
+.p{color:rgb(136, 84, 5);}
+footer{text-align: center; color: rgba(232, 234, 236, 0.112);}
+.p1{color: rgba(240, 248, 255, 0.215);}
