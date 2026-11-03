@@ -1,0 +1,40 @@
+body{background-color: rgb(48, 27, 2);
+display: flex;
+flex-direction: column;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+h1, h2, h3,h4, p, ul,li{color: rgb(189, 103, 5);}
+
+
+h1{text-align: center;
+background-color: rgb(33, 21, 2);
+padding: 20px;
+}
+
+article{
+ 
+}
+
+nav a {
+color: brown;
+padding: 10px;
+background-color: rgba(41, 26, 1, 0.749);
+}
+nav {display: flex;
+justify-content: center;}
+
+.link a {color: brown;}
+
+
+footer{
+    text-align: center; color: rgba(232, 234, 236, 0.112);
+}
+
+.published{ color: rgba(105, 74, 3, 0.285);
+font-style: italic;
+font-size: small;
+}
+
+@media (min-width: 600px) {
+    body {background-color: rgb(31, 18, 4);}
+}
