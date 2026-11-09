@@ -1,0 +1,33 @@
+body {background-color: rgb(80, 48, 3);}
+
+
+table, th, td {
+ border: 3px solid rgb(47, 29, 1);
+border-collapse: collapse;
+font-family: Arial, Helvetica, sans-serif;
+}
+nav, nav a {text-align: end;
+color: black;
+margin-left: 15px;
+
+}
+
+table {margin: 0 auto;}
+
+th, td {padding: 25px;}
+
+h1, p{color: rgb(5, 7, 9);
+text-align: center;}
+
+p {color: aliceblue;
+}
+
+.A {background-color: rgb(67, 189, 75);}
+.S {background-color: rgb(212, 78, 181);}
+.B {background-color: rgb(228, 132, 36);}
+.C {background-color: rgb(223, 190, 81);}
+.D {background-color: rgb(209, 70, 70);}
+
+label {font-weight: bolder;
+font-family: Arial, Helvetica, sans-serif;
+}
